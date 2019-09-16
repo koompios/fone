@@ -13,6 +13,12 @@ And Initialize your IPFS https://flyingzumwalt.gitbooks.io/decentralized-web-pri
 
 run command > ipfs daemon
 
+change fone.py to fone 
+
+chmod +x fone.sh
+
+run ./fone
+
 to upload we run command > fone upload {filename}  
 
 Ex: > fone upload -f example.txt
